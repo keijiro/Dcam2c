@@ -1,16 +1,7 @@
-# Dcam2
+# Dcam2c
 
-![GIF](https://github.com/user-attachments/assets/02437863-9acb-4942-902a-67697bee70a0)
+This is a fork of [Dcam2], created specifically for an event that requires a
+unique screen resolution. For general use, please refer to the original [Dcam2]
+repository.
 
-**Dcam2** is the successor to [Dcam], utilizing Stable Diffusion for visual
-
-Unlike its predecessor, which focused on running a simple image-to-image
-pipeline in real-time, Dcam2 incorporates additional effects with using the
-BodyPix segmentation and keypoint detection model.
-
-[Dcam]: https://github.com/keijiro/Dcam/
-
-## System Requirements
-
-- macOS 15.0 Sequoia
-- Unity 6
+[Dcam2]: https://github.com/keijiro/Dcam2
