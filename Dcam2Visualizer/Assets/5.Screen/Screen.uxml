@@ -1,0 +1,7 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <engine:VisualElement name="root" style="flex-direction: row; height: 23.7037%;">
+        <engine:VisualElement name="left" style="background-image: url(&quot;project://database/Assets/5.Screen/Screen.renderTexture?fileID=8400000&amp;guid=414a3a4ea1f05467c854a4710274dc14&amp;type=2#Screen&quot;); width: 36.66667%;" />
+        <engine:VisualElement name="ceil" style="background-image: url(&quot;project://database/Assets/5.Screen/Screen.renderTexture?fileID=8400000&amp;guid=414a3a4ea1f05467c854a4710274dc14&amp;type=2#Screen&quot;); -unity-background-scale-mode: scale-and-crop; width: 26.66667%;" />
+        <engine:VisualElement name="right" style="background-image: url(&quot;project://database/Assets/5.Screen/Screen.renderTexture?fileID=8400000&amp;guid=414a3a4ea1f05467c854a4710274dc14&amp;type=2#Screen&quot;); width: 36.66667%;" />
+    </engine:VisualElement>
+</engine:UXML>
